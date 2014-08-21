@@ -1,0 +1,202 @@
+
+
+Started GET "/rails/info/properties" for 105.33.94.141 at Tue Aug 19 17:53:17 +0000 2014
+  Processing by Rails::InfoController#properties as */*
+Rendered inline template (0.2ms)
+Completed 200 OK in 104ms (Views: 0.9ms)
+
+
+Started GET "/welcome" for 105.33.94.141 at Tue Aug 19 17:53:23 +0000 2014
+
+ActionController::RoutingError (No route matches "/welcome"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/welcome" for 105.33.94.141 at Tue Aug 19 17:54:24 +0000 2014
+  Processing by WelcomeController#index as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 16ms (Views: 15.4ms)
+
+
+Started GET "/welcome" for 105.33.94.141 at Tue Aug 19 17:58:38 +0000 2014
+  Processing by WelcomeController#index as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/welcome" for 105.33.94.141 at Tue Aug 19 18:03:48 +0000 2014
+  Processing by WelcomeController#index as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.9ms)
+
+
+Started GET "/welcome" for 105.33.94.141 at Tue Aug 19 18:07:18 +0000 2014
+  Processing by WelcomeController#index as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms)
+
+
+Started GET "/welcome" for 105.33.94.141 at Tue Aug 19 18:07:29 +0000 2014
+  Processing by WelcomeController#index as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.6ms)
+
+
+Started GET "/Shibboleth.sso/Session" for 105.33.94.141 at Tue Aug 19 18:07:34 +0000 2014
+
+ActionController::RoutingError (No route matches "/Shibboleth.sso/Session"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/render/hoteldiv.jsp?&__jscallback=XQScript_4" for 118.113.51.30 at Wed Aug 20 07:08:20 +0000 2014
+
+ActionController::RoutingError (No route matches "/render/hoteldiv.jsp"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/manager/html" for 218.245.6.22 at Wed Aug 20 12:08:28 +0000 2014
+
+ActionController::RoutingError (No route matches "/manager/html"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/manager/html" for 115.239.248.56 at Wed Aug 20 15:48:28 +0000 2014
+
+ActionController::RoutingError (No route matches "/manager/html"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/user/soapCaller.bs" for 65.207.23.201 at Thu Aug 21 00:20:08 +0000 2014
+
+ActionController::RoutingError (No route matches "/user/soapCaller.bs"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/login.php" for 62.210.167.201 at Thu Aug 21 00:50:39 +0000 2014
+
+ActionController::RoutingError (No route matches "/login.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/Droid/login.php" for 62.210.167.201 at Thu Aug 21 00:50:39 +0000 2014
+
+ActionController::RoutingError (No route matches "/Droid/login.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/rat/login.php" for 62.210.167.201 at Thu Aug 21 00:50:39 +0000 2014
+
+ActionController::RoutingError (No route matches "/rat/login.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/master/login.php" for 62.210.167.201 at Thu Aug 21 00:50:40 +0000 2014
+
+ActionController::RoutingError (No route matches "/master/login.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/w19218317418621031041543/index.php" for 62.210.167.201 at Thu Aug 21 00:53:58 +0000 2014
+
+ActionController::RoutingError (No route matches "/w19218317418621031041543/index.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/alfa/index.php" for 62.210.167.201 at Thu Aug 21 00:53:58 +0000 2014
+
+ActionController::RoutingError (No route matches "/alfa/index.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/Panel/index.php" for 62.210.167.201 at Thu Aug 21 00:53:58 +0000 2014
+
+ActionController::RoutingError (No route matches "/Panel/index.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/images/logo/index.php" for 62.210.167.201 at Thu Aug 21 00:53:59 +0000 2014
+
+ActionController::RoutingError (No route matches "/images/logo/index.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/js/admin.php" for 62.210.167.201 at Thu Aug 21 00:55:17 +0000 2014
+
+ActionController::RoutingError (No route matches "/js/admin.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/ppnngrr/admin.php" for 62.210.167.201 at Thu Aug 21 00:55:17 +0000 2014
+
+ActionController::RoutingError (No route matches "/ppnngrr/admin.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/ponyd/admin.php" for 62.210.167.201 at Thu Aug 21 00:55:18 +0000 2014
+
+ActionController::RoutingError (No route matches "/ponyd/admin.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/admin.php" for 62.210.167.201 at Thu Aug 21 00:55:18 +0000 2014
+
+ActionController::RoutingError (No route matches "/admin.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/welcome" for 197.222.233.145 at Thu Aug 21 01:01:26 +0000 2014
+  Processing by WelcomeController#index as HTML
+Rendered text template (0.0ms)
+Completed 200 OK in 6ms (Views: 5.4ms)
+
+
+Started GET "/cp.php?m=login" for 81.17.16.170 at Thu Aug 21 01:01:45 +0000 2014
+
+ActionController::RoutingError (No route matches "/cp.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/server/cp.php?m=login" for 81.17.16.170 at Thu Aug 21 01:01:46 +0000 2014
+
+ActionController::RoutingError (No route matches "/server/cp.php"):
+  
+
+Rendered /home/deploy/.bundler/ruby2/ruby/1.8/gems/actionpack-3.0.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
